@@ -1,5 +1,5 @@
 # Jobsheet-5
-Latihan Soal 01
+#Latihan Soal 01
 ! 1)	10 + 5 
 Operator : +
 Operand : 10, 5
