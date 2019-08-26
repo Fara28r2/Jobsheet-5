@@ -35,7 +35,7 @@ X += 5
 Hasil akhir: 15
 (c)	X = 8x
 X -=6
-Hasil akhit-2
+Hasil akhir-2
 (d)	 X = 2x * =5
 Hasil akhir : 10
 (e)	 X = 12 x/ =4
