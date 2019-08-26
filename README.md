@@ -8,13 +8,13 @@ Operand : 10, 5
 Operator : x =
 Operand : 2.5
 3)	a = 2/b
-Operator : a,b
+Operator : /, =
 Operand : 2
 4)	12 < 8
 Operator : <
 Operand : 12,8
 5)	C = A + B
-Operator : +, C
+Operator : +, =
 Operand : A,B
 
 #Latihan Soal 02
